@@ -2,7 +2,7 @@
 
 ## **The purpose**
 
-This repo was created to explain the final exam goals and how they were achieved step by step. 
+This repo was prepared to explain step by step the objectives of the final exam and how these objectives were achieved, which codes and programs were used and the outputs obtained.
 
 ## **The goals of the final exam**
 
