@@ -14,5 +14,5 @@ This repo was prepared to explain step by step the objectives of the final exam 
 
 ## **The road map**
 
-In order to achieve these goals, first of all, jupyter lab or jupyter notebook must be downloaded from anaconda navigator and opened with terminal. Jupyter notebook runs pyton compatible and all programs defined in pyton can be run in jupyter notebook. Using jupyter notebook and necessary pyton programs, all commands to achieve the above goals were executed and outputs were obtained. You can reach the explaination my code, the usage of my code and its outputs, step by step with the ***Final_Gunes.ipynb*** text, which is a jupyter notebook printout in this repo. 
+In order to achieve these goals, first of all, jupyter lab or jupyter notebook must be downloaded from *anaconda navigator* and opened with terminal by jupyter-lab or jupyter notebook commands. Jupyter notebook runs pyton compatible and all programs defined in pyton can be run in jupyter notebook. Using jupyter notebook and necessary pyton programs, all commands to achieve the above goals were executed and outputs were obtained. You can reach the explaination my code, the usage of my code and its outputs, step by step with the ***Final_Gunes.ipynb*** text, which is a jupyter notebook printout in this repo. 
 
