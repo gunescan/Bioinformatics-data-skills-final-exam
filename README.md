@@ -6,4 +6,5 @@ This repo was created to explain the final exam goals and how they were achieved
 
 ## **The goals of the final exam**
 
--
+- Creating a 100x100 numpy array (100x100 matrix)
+- 
